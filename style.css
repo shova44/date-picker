@@ -1,0 +1,30 @@
+body{
+    background-color:white;
+}
+h1{
+    text-align: center;
+    color: black;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.selected{
+    text-align: center;
+    color:black;
+    font-size:30px;
+}
+#text{
+    font-size: 20px;
+    color:black
+}
+fieldset{
+    background-color: rgb(199, 199, 172);
+    text-align: center;
+    align-items: center;
+    size: 50px;
+    margin-left: 500px;
+    margin-right: 500px;
+    height:80px;
+    box-sizing: border-box;
+    
+    
+}
